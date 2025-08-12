@@ -9,7 +9,7 @@ export default function SaoPaulo()
                   Além da indústria e comércio, o estado possui uma rica produção agrícola e importantes áreas de turismo.
 </p>
 <p>
-    <img src="" />
+    <img src="SP.png" />
 </p>
 
 <p>
