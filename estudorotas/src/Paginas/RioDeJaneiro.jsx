@@ -8,7 +8,7 @@ export default function RioDeJaneiro()
 
 </p>
 <p>
-    <img src="RJ.png" />
+    <img src="rj.png" />
 </p>
 
 <p>

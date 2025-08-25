@@ -1,14 +1,14 @@
-export default function EspiritoSanto()
+export default function SantaCatarina()
 {
     return(
         <div>
-            <h1>Seja bem vindo ao Estado do Espirito Santo</h1>
-            <p>O Espírito Santo é um estado localizado na região sudeste do Brasil, com uma costa recheada de belas praias, como em Vila Velha e Guarapari.<br></br> Sua economia é impulsionada pela indústria de petróleo, gás e minério de ferro, além da agricultura, com destaque para a produção de café.<br></br> A capital, Vitória, é uma cidade portuária e vibrante. O estado também é conhecido pela sua cultura, que mistura influências indígenas, africanas e europeias.
+            <h1>Seja bem vindo ao Estado do Santa Catarina</h1>
+            <p>Santa Catarina é famoso por suas praias e pela Oktoberfest de Blumenau, uma das maiores festas alemãs fora da Alemanha.<br></br> Florianópolis, sua capital, é uma ilha com forte apelo turístico. A economia combina indústria, agronegócio e turismo. O estado também se destaca pela qualidade de vida.
 
 </p>
 
 <p>
-    <img src="/ES.png" alt="" />
+    <img src="/sc.png" alt="" />
 </p>
 
 <p>
@@ -17,3 +17,4 @@ export default function EspiritoSanto()
 
  </div>
     )
+};
