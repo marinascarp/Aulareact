@@ -6,9 +6,9 @@ export default function MatoGrosso()
             <p>O Mato Grosso é um estado de grandes áreas naturais, abrigando o Pantanal, o Cerrado e a Amazônia. Sua capital, Cuiabá, é conhecida pelo calor intenso.<br></br> A economia é fortemente ligada ao agronegócio, com destaque para soja, milho e pecuária. É um dos principais destinos de ecoturismo do país.
 
 </p>
-
+<hr></hr>
 <p>
-    <img src="/mt.png" alt="" />
+    <img src="/mt.jpg" alt="" />
 </p>
 
 <p>

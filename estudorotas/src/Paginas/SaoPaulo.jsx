@@ -7,8 +7,9 @@ export default function SaoPaulo() {
                 Sua capital, São Paulo, é uma metrópole global conhecida pela diversidade cultural e oportunidades de negócios.<br></br>
                 Além da indústria e comércio, o estado possui uma rica produção agrícola e importantes áreas de turismo.
             </p>
+            <hr></hr>
             <p>
-                <img src="sp.png" />
+                <img src="sp.jpg" />
             </p>
 
             <p>

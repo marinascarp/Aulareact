@@ -7,8 +7,9 @@ export default function RioDeJaneiro()
             <p>O Rio de Janeiro é um estado localizado no sudeste do Brasil, famoso por suas praias icônicas, como Copacabana e Ipanema, e pelo Cristo Redentor.<br></br> Sua capital, a cidade do Rio de Janeiro, é um dos destinos turísticos mais visitados do mundo, conhecida pelo carnaval e pela cultura vibrante. A economia é baseada no turismo, petróleo e serviços.<br></br> Além disso, o estado possui uma grande diversidade de paisagens, com montanhas, florestas e áreas costeiras.
 
 </p>
+<hr></hr>
 <p>
-    <img src="rj.png" />
+    <img src="rj.jpg" />
 </p>
 
 <p>

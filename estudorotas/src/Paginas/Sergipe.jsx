@@ -3,12 +3,12 @@ export default function Sergipe()
     return(
         <div>
             <h1>Seja bem vindo ao Estado do Sergipe</h1>
-            <p>Sergipe é o menor estado do Brasil em extensão territorial. Sua capital, Aracaju, é considerada uma das cidades mais tranquilas do Nordeste.<br></br> A economia é baseada na indústria, pecuária e petróleo. O estado tem belas praias e o famoso Cânion do Xingó, no rio São Francisco.
+            <p>Sergipe é o menor estado do Brasil em extensão territorial. Sua capital, Aracaju, é considerada uma das cidades mais tranquilas do Nordeste.<br></br> A economia é baseada na indústria, pecuária e petróleo.<br></br> O estado tem belas praias e o famoso Cânion do Xingó, no rio São Francisco.
 
 </p>
-
+<hr></hr>
 <p>
-    <img src="/serg.png" alt="" />
+    <img src="/serg.jpg" alt="" />
 </p>
 
 <p>
