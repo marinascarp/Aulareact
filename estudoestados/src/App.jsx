@@ -19,6 +19,11 @@ export default function App() {
                 <Route path="/exercicio2" element={<Exercicio2/>} />
                 <Route path="/exercicio3" element={<Exercicio3/>} />
                 <Route path="/exercicio4" element={<Exercicio4/>} />
+                <Route path="/exercicio5" element={<Exercicio4/>} />
+                <Route path="/exercicio6" element={<Exercicio4/>} />
+                <Route path="/exercicio7" element={<Exercicio4/>} />
+                <Route path="/exercicio8" element={<Exercicio4/>} />
+                <Route path="/exercicio4" element={<Exercicio4/>} />
                
             </Routes>
         </BrowserRouter>
