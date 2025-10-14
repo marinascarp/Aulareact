@@ -40,7 +40,7 @@ export default function Exercicio4()
          
          
           <p>
-            <input type="button" value="Exercicio3" 
+            <input type="button" value="Exercicio4" 
             onClick={calcular}/>
           </p>
           <p>
