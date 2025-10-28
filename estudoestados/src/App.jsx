@@ -13,6 +13,8 @@ import Exercicio8 from "./Paginas/Exercicio8";
 import Exercicio9 from "./Paginas/Exercicio9";
 import Exercicio10 from "./Paginas/Exercicio10";
 import Simulado1 from "./Paginas/Simulado1";
+import Avaliacao1 from "./Paginas/Avaliacao1";
+
 
 import "./App.css";
 
@@ -34,6 +36,8 @@ export default function App() {
                 <Route path="/exercicio9" element={<Exercicio9/>} />
                 <Route path="/exercicio10" element={<Exercicio10/>} />
                 <Route path="/simulado1" element={<Simulado1/>} />
+                <Route path="/avaliacao1" element={<Avaliacao1/>} />
+
 
 
                

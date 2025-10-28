@@ -13,7 +13,7 @@ export default function Simulado1()
 
    let total= (dias * 90)+(km * 0.20);
 
-    setResultado("O preço total a pagar é", total );
+    setResultado("O preço total a pagar é " + total );
   }
 
     return (
